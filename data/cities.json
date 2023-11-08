@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "mar da Palha",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2023-11-05T20:10:38.644Z",
+      "notes": "",
+      "position": {
+        "lat": "38.70265930723801",
+        "lng": "-9.096679687500002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Agudo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-06T14:25:42.610Z",
+      "notes": "",
+      "position": {
+        "lat": "39.027718840211605",
+        "lng": "-4.899902343750001"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Aledo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-06T14:40:18.520Z",
+      "notes": "",
+      "position": {
+        "lat": "37.80544394934274",
+        "lng": "-1.6259765625"
+      },
+      "id": 98443200
+    }
+  ]
+}
